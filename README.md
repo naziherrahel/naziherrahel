@@ -81,13 +81,8 @@ Repositories in this profile focus on:
 
 ## Academic Metrics
 
-<p align="center">
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naziherrahel)
 
-![GitHub followers](https://img.shields.io/github/followers/naziherrahel?label=Followers&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/naziherrahel?label=Total%20Stars&style=flat)
-![Last commit](https://img.shields.io/github/last-commit/naziherrahel?label=Last%20Commit)
-
-</p>
 
 
 
