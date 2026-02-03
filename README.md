@@ -45,7 +45,7 @@ Teaching philosophy:
 ### Artificial Intelligence & Computer Vision
 
 * Deep learning for vision (PyTorch)
-* Object detection (YOLOv8)
+* Object detection 
 * Video analytics and event detection
 * Dataset design and evaluation
 
