@@ -83,6 +83,7 @@ Repositories in this profile focus on:
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naziherrahel)
 
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naziherrahel)
 
 
 
