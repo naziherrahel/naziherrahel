@@ -81,7 +81,7 @@ Repositories in this profile focus on:
 
 ## Academic Metrics
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naziherrahel)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naziherrahel)
 
 
 
