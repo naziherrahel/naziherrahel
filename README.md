@@ -82,9 +82,13 @@ Repositories in this profile focus on:
 ## Academic Metrics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=naziherrahel&show_icons=true&hide_rank=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naziherrahel&layout=compact" height="150"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naziherrahel&show_icons=true&hide_rank=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naziherrahel&layout=compact&cache_seconds=1800)
+
 </p>
+
 
 ---
 
